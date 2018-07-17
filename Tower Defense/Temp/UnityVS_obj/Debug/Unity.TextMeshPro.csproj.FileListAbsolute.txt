@@ -1,0 +1,2 @@
+/Users/alany/Github/Unity/Tower Defense/Temp/UnityVS_obj/Debug/Unity.TextMeshPro.csprojResolveAssemblyReference.cache
+/Users/alany/Github/Unity/Tower Defense/Temp/UnityVS_obj/Debug/Unity.TextMeshPro.csproj.CoreCompileInputs.cache

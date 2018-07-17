@@ -1,0 +1,2 @@
+/Users/alany/Github/Unity/Tower Defense/Temp/UnityVS_obj/Debug/UnityEditor.StandardEvents.csprojResolveAssemblyReference.cache
+/Users/alany/Github/Unity/Tower Defense/Temp/UnityVS_obj/Debug/UnityEditor.StandardEvents.csproj.CoreCompileInputs.cache
